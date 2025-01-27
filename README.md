@@ -35,7 +35,7 @@ into /usr/share/applications
 and then the application will be in your app menu
 
 
-options:
+options
 1) change to bookwork mirrors
 2) change to trixie mirrors
 3) change to sid mirrors
