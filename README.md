@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="750" src="https://postimg.cc/Mnysr9cv" alt="logo">
+    <img width="750" src="https://i.postimg.cc/Z5Q1ng4F/Debian-Mirror-Changer-1-27-2025.png" alt="logo">
 </p>
 
 <div align="center">
@@ -46,8 +46,9 @@ options:
 
 ![Script](https://github.com/user-attachments/assets/d5abde6f-ac69-49e5-97ae-eb22361c18d3)
 
-![Desktops](https://github.com/user-attachments/assets/53523654-1f33-462d-aaae-8da36f0fd50e)
 ![Qt6Application](https://github.com/user-attachments/assets/c1cb5917-5564-4f04-b88a-77bd6769c47c)
+![Desktops](https://github.com/user-attachments/assets/53523654-1f33-462d-aaae-8da36f0fd50e)
+
 
 
 
