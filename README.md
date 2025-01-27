@@ -20,11 +20,29 @@
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=claudemods&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/claudemods)</div>
 
 <div align="center">
-Hello, welcome to claudemods Multi ISO Creator v1.06.1 Beta Demo build 26-01-2025 Written in Cpp,
-Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix!
+claudemods Debian Mirror Changer v1.02
 
-more info on releases
+News 27-01-2025
+new tui script update with extra options for desktops
+new cpp qt6 application
 
+to use simply extract .zip
+simply launch preffered .bin
+e.g script in konsole or gui normally
+or copy debian-mirror-changer to opt and launch preffered .desktops
+you can also place the one or both of the .desktops
+into /usr/share/applications
+and then the application will be in your app menu
+
+
+options:
+1) change to bookwork mirrors
+2) change to trixie mirrors
+3) change to sid mirrors
+4) update package database
+5) upgrade all packages
+6) choose from desktops to install
+7) exit
 
 ![Script](https://github.com/user-attachments/assets/d5abde6f-ac69-49e5-97ae-eb22361c18d3)
 
@@ -32,9 +50,6 @@ more info on releases
 ![Qt6Application](https://github.com/user-attachments/assets/c1cb5917-5564-4f04-b88a-77bd6769c47c)
 
 
-
-
-https://github.com/user-attachments/assets/d7f1c250-49ff-47ae-b599-7f4f3d19a051
 
 
 
